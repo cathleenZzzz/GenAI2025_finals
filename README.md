@@ -1,6 +1,6 @@
 # GenAI2025 Finals Documentation
 
-## Final Project for Golan Levin's Generative AI Class
+(Final Project for Golan Levin's Generative AI Class)
 
 Below is the tinkering I did for the final project for Golan Levin's Generative AI class.
 
