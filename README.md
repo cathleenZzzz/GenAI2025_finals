@@ -13,7 +13,7 @@ The GAN (trained from a dataset of images contained [here](https://cathleenzzzz.
 I used the Colab notebook by Derrick Schultz ([link](https://github.com/brownvc/R3GAN/)).  
 There is really minimal technical effort by me, just some debugging and GPT generating the script for the latent loops.
 
-Here is the folder with the debugged Python scripts: [Google Drive folder](https://drive.google.com/drive/folders/1F69HsQV__R6fduAYwGv-eEUZp5KsDkvV?usp=sharing).
+Here is the folder with the debugged Python scripts: [R3GAN folder](https://drive.google.com/drive/folders/1_ZdyAXRVATGwKBDcw8ma6VIC7_2fkCvk?usp=sharing).
 
 From the trained models, I generated some looping videos that are sorted by t-SNE and displayed [here](https://cathleenzzzz.github.io/stuckincarpet_moving/).
 
