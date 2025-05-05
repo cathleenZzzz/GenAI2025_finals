@@ -19,7 +19,12 @@ From the trained models, I generated some looping videos that are sorted by t-SN
 
 Here are some example vids:
 
-(vids)
+- [Loop 1](https://github.com/cathleenZzzz/GenAI2025_finals/raw/main/LoopingVideos/loop3.mp4)
+- [Loop 2](https://github.com/cathleenZzzz/GenAI2025_finals/raw/main/LoopingVideos/loop9.mp4)
+- [Loop 3](https://github.com/cathleenZzzz/GenAI2025_finals/raw/main/LoopingVideos/loop10.mp4)
+- [Loop 4](https://github.com/cathleenZzzz/GenAI2025_finals/raw/main/LoopingVideos/loop11.mp4)
+- [Loop 5](https://github.com/cathleenZzzz/GenAI2025_finals/raw/main/LoopingVideos/loop12.mp4)
+- [Loop 6](https://github.com/cathleenZzzz/GenAI2025_finals/raw/main/LoopingVideos/loop13.mp4)
 
 ---
 
