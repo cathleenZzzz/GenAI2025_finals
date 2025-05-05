@@ -65,7 +65,7 @@ To be honest, the results weren't that interesting to me — it didn't really sc
 
 **"Skin" Generation Result:**
 
-![Skin Generation](https://raw.githubusercontent.com/cathleenZzzz/GenAI2025_finals/main/TreeSkinImages/generation.jpg)
+![Skin Generation](https://raw.githubusercontent.com/cathleenZzzz/GenAI2025_finals/main/TreeSkinImages/generated.jpg)
 
 Most of the skeletons look the same, and generation took a long time, so I didn't produce very many outputs.  
 You can expect them to look relatively similar. There was a lot of vibe coding — and honestly, I'm not sure if the result was worth it.
