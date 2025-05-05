@@ -43,7 +43,29 @@ To be honest, the results weren't that interesting to me — it didn't really sc
 
 `Original Image` → `Edge Map` → `Skeleton` → `Normal + Depth Maps` → `"Skin" Generation`
 
-(images)
+**Original Image:**
+
+![Original Image](https://raw.githubusercontent.com/cathleenZzzz/GenAI2025_finals/main/TreeSkinImages/original.png)
+
+**Edge Detection:**
+
+![Edge Detection](https://raw.githubusercontent.com/cathleenZzzz/GenAI2025_finals/main/TreeSkinImages/edge.png)
+
+**Skeleton Extraction:**
+
+![Skeleton](https://raw.githubusercontent.com/cathleenZzzz/GenAI2025_finals/main/TreeSkinImages/skeleton.png)
+
+**Depth Map:**
+
+![Depth Map](https://raw.githubusercontent.com/cathleenZzzz/GenAI2025_finals/main/TreeSkinImages/depth.png)
+
+**Normal Map:**
+
+![Normal Map](https://raw.githubusercontent.com/cathleenZzzz/GenAI2025_finals/main/TreeSkinImages/normal.png)
+
+**"Skin" Generation Result:**
+
+![Skin Generation](https://raw.githubusercontent.com/cathleenZzzz/GenAI2025_finals/main/TreeSkinImages/generation.jpg)
 
 Most of the skeletons look the same, and generation took a long time, so I didn't produce very many outputs.  
 You can expect them to look relatively similar. There was a lot of vibe coding — and honestly, I'm not sure if the result was worth it.
